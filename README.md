@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![ToooAir's GitHub stats](https://github-readme-stats.vercel.app/api?username=toooair&show_icons=true&bg_color=40,fdfbfb,def2fc&title_color=383838&text_color=3d3d3d&icon_color=073d74)
+
+
 <!--
 **ToooAir/ToooAir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
